@@ -1,4 +1,4 @@
-const yargs = require('yargs/yargs') //создаем переменную, которая берется из пакета
+const yargs = require('yargs/yargs')
 const { hideBin } = require('yargs/helpers')
 
 
